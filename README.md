@@ -1,4 +1,4 @@
-# EduAmp
+# TutorGuru
 It is a Terminal based application with a MySQL database.
 # Problem Solved
 A good amount of money is demanded in online courses platforms such as
